@@ -1,0 +1,40 @@
+// Colors
+$c-grey: #828282;
+$c-grey-bg: #EFEFF4;
+$c-grey-dk: #9A99A2;
+$c-grey-nd: #DAD9DE;
+$c-grey-div: #E6E4EA;
+
+$c-blue-bc: #2D9CDB;
+$c-blue-4: #8EC6E7;
+$c-blue-3: #7FD1FF;
+
+$c-green-3: #219452;
+$c-green-bc: #27AE60;
+$c-green-lt: #6FCF97;
+
+$c-red-bd: #EB5757;
+
+$c-basic: #363636;
+
+$c-error: #FFD9D9;
+
+// Fonts
+$ff-main: "SF Pro", sans-serif;
+
+/* Rhythm */
+$r-rhythm: (
+  a: auto,
+  8: 8px,
+  11: 11px,
+  16: 16px,
+  20: 20px
+);
+
+/* Radius */
+$radius: (
+  a: auto,
+  8: 8px,
+  11: 11px,
+  16: 16px
+);
